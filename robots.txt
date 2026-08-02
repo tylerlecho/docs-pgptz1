@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-kej42s.bento4d1nh.site/sitemap.xml
